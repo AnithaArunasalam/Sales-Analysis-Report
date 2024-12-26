@@ -40,7 +40,6 @@ This project provides a comprehensive analysis of sales data using Power BI. The
 ### 📊 **Dashboard Overview**
 ![Dashboard Overview]([images/dashboard_overview.png](https://github.com/AnithaArunasalam/Sales-Analysis-Report/blob/main/Screenshot%20(1).png)
 
-### 🥇 **Top Performers**
-![Top Performers](images/top_performers.png)
+
 
 
